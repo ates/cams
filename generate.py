@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 lines = [
 "Native HLS Playback",
 "",

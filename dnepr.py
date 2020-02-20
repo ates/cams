@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # https://cam.dnepr.com
 # https://cam.dnepr.com/hls/num1.m3u8
 

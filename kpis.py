@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # http://ss.kpis.com.ua/89/hls/live.m3u8
 # http://bezpekamista.com.ua/
 # http://ss.bezpekamista.dp.ua/42/hls/live.m3u8

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # https://img.snig.info/38/last_s.jpg
 # https://img.snig.info/38/last_s.jpg?version=1570525825
 
